@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Satish Saini</h1>
 <h3 align="center">Full Stack Software Engineer | Building Scalable Systems</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Building+Scalable+Systems;Clean+Code+%7C+Real+World+Impact;Always+Learning+%26+Improving" />
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/satishsaini02/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
@@ -101,8 +103,8 @@
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn:https://www.linkedin.com/in/satishsaini02  
+- 📧 Email: satishsaini02062004@gmail.com  
 
 ---
 
