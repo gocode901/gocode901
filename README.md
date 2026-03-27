@@ -1,7 +1,9 @@
 <h1 align="center">Hey 👋, I'm Satish Saini</h1>
-<h3 align="center">Full Stack Software Engineer | Building Scalable Systems</h3>
+<h3 align="center"> Software Engineer |Full-Stack Developer
+  |AI/ML Enthusiast</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Building+Scalable+Systems;Clean+Code+%7C+Real+World+Impact;Always+Learning+%26+Improving" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Learning+to+Build+Scalable+Systems;Turning+Ideas+Into+Working+Products" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/satishsaini02/">
