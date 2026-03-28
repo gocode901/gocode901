@@ -19,11 +19,12 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Engineer building **production-grade, scalable applications**
-- 🏗️ Experienced in **multi-tenant systems, RBAC, and secure authentication**
-- ⚡ Focused on **clean architecture, performance, and maintainability**
-- 🧠 Exploring **system design, backend scaling & AI integrations**
-- 🌍 Passionate about solving **real-world problems through tech**
+🎓 2024 Graduate focused on building real-world software systems
+💻 Experience in full-stack development with strong backend fundamentals
+🧠 Exploring system design, scalability, and AI-driven solutions
+🌍 Driven to solve practical problems through technology and clean engineering
+⚡ Consistently learning and building with a focus on performance and maintainability
+🏸 Outside work: fitness, trekking, and staying disciplined
 
 ---
 
