@@ -19,12 +19,12 @@
 
 ## 🚀 About Me
 
--🎓 2024 Graduate focused on building real-world software systems
--💻 Experience in full-stack development with strong backend fundamentals
--🧠 Exploring system design, scalability, and AI-driven solutions
--🌍 Driven to solve practical problems through technology and clean engineering
--⚡ Consistently learning and building with a focus on performance and maintainability
--🏸 Outside work: fitness, trekking, and staying disciplined
+- 🎓 2024 Graduate focused on building real-world software systems
+- 💻 Experience in full-stack development with strong backend fundamentals
+- 🧠 Exploring system design, scalability, and AI-driven solutions
+- 🌍 Driven to solve practical problems through technology and clean engineering
+- ⚡ Consistently learning and building with a focus on performance and maintainability
+- 🏸 Outside work: fitness, trekking, and staying disciplined
 
 ---
 
